@@ -4,44 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3548f4e0-0cbe-4379-8ef8-b0479ffdcc91" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Bank Management System.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Portfolio/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Portfolio/pettern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/jcalendar_tz_1_3_3_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bank Management System.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bank Management System/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bank Management System/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bank Management System/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bank Management System/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bank Management System/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bank Management System/Bank Management System.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bank Management System/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bank Management System/src/bank/management/system/Login.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/qodana.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bank/management/system/BalanceEnquiry.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bank/management/system/Change_Pin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bank/management/system/Connector.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bank/management/system/Deposit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bank/management/system/FastCash.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bank/management/system/Login.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bank/management/system/Main_Class.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bank/management/system/Mini_Statement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bank/management/system/Signup.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bank/management/system/Signup2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bank/management/system/Signup3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bank/management/system/Withdrawl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/icon/atm8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/icon/atm9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/icon/backph.jpg" afterDir="false" />
-    </list>
+    <list default="true" id="3548f4e0-0cbe-4379-8ef8-b0479ffdcc91" name="Changes" comment="updated" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -157,6 +120,15 @@
       <option name="presentableId" value="Default" />
       <updated>1703279550978</updated>
     </task>
+    <task id="LOCAL-00001" summary="updated">
+      <option name="closed" value="true" />
+      <created>1750667790058</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1750667790058</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -169,6 +141,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
